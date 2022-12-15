@@ -40,11 +40,15 @@ lerna-debug.log*
 .env.*
 */.env.*
 
+# Databases
+databases/*
+
 # Sqlite Databse files
-.db
-.db.*
-.db-shm
-.db-wal
+*.db
+*.db.*
+*.db-shm
+*.db-wal
+/*.db
 */.db
 */.db.*
 */.db-shm
