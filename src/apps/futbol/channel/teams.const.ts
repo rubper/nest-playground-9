@@ -1,0 +1,18 @@
+export enum Teams {
+  NED = 'Netherlands',
+  ENG = 'England',
+  SEN = 'Senegal',
+  USA = 'United States',
+  AUS = 'Australia',
+  FRA = 'France',
+  ARG = 'Argentina',
+  MAR = 'Morocco',
+  POL = 'Poland',
+  CRO = 'Croatia',
+  ESP = 'Spain',
+  JPN = 'Japan',
+  BRA = 'Brazil',
+  KOR = 'South Korea',
+  SUI = 'Switzerland',
+  POR = 'Portugal',
+}
