@@ -29,7 +29,23 @@ lerna-debug.log*
 
 # IDE - VSCode
 .vscode/*
-!.vscode/settings.json
+.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Environment files
+.env
+*/.env
+.env.*
+*/.env.*
+
+# Sqlite Databse files
+.db
+.db.*
+.db-shm
+.db-wal
+*/.db
+*/.db.*
+*/.db-shm
+*/.db-wal
